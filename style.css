@@ -210,10 +210,11 @@ p {
 /* contact form-------------------- */
 
 #form {
-    margin-top: 100px;
+    margin-top: 50px;
     padding: 10px;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 25%;
+    margin-right: 25%;
+    
     
 }
 
@@ -245,6 +246,6 @@ legend {
 
 .table {
     background-color: white;
-    font-size: 1.5em;
+    font-size: 1.4em;
     font-weight: 600;
 }
