@@ -221,7 +221,9 @@ p {
 
 legend {
     font-size: 30px;
-    color: black;
+    font-weight: 600;
+    color: rgb(228, 120, 69);
+
 }
 
 .icon {
@@ -237,11 +239,40 @@ legend {
     font-weight: 500;
 }
 
+.btn-primary
+   {
+    transition: all .4s ease-in;
+    -webkit-transition: all .4s ease-in;
+    -moz-transition: all .4s ease-in;
+    -o-transition: all .4s ease-in;
+  }  
+
 .form-control {
     font-size: 20px;
     color: black;
+    border: transparent
+
+    
 
 }
+
+h3 {
+    text-align: center;
+    padding-top: 15px;
+    font-size: 30px;
+    color: black;
+
+}
+
+.well {
+    background-color: rgb(245, 248, 248);
+    border: transparent
+    ;
+}
+
+
+
+
 
 /* ------------------------tour---------------------- */
 
@@ -256,7 +287,7 @@ legend {
     
     padding-top: 60px;
     padding-left: 60px;
-    padding-bottom: 30px;
+    padding-bottom: 40px;
     
     
 }
@@ -264,4 +295,8 @@ legend {
 blockquote {
     background-color: transparent;
     color: #eee9e7;
+}
+
+.embed-responsive-item {
+    padding-bottom: 20px;
 }
