@@ -94,7 +94,7 @@
 /* ----------------body--------------- */
 
 #index-front {
-    background: url("http://127.0.0.1:8887/olsenhome.jpg");
+    background: url("images/olsenhome.jpg");
     background-size: cover;
     background-position: center; 
 }
