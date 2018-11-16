@@ -256,10 +256,12 @@ legend {
     
     padding-top: 60px;
     padding-left: 60px;
+    padding-bottom: 30px;
     
     
 }
 
-.video {
-    
+blockquote {
+    background-color: transparent;
+    color: #eee9e7;
 }
