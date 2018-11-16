@@ -222,7 +222,7 @@ p {
 legend {
     font-size: 30px;
     font-weight: 600;
-    color: rgb(228, 120, 69);
+    color: black;
 
 }
 
@@ -236,7 +236,7 @@ legend {
     background-color: rgb(228, 120, 69);
     color: black;
     font-size: 22px;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 .btn-primary
@@ -265,7 +265,7 @@ h3 {
 }
 
 .well {
-    background-color: rgb(245, 248, 248);
+    background-color: rgb(240, 237, 226);
     border: transparent
     ;
 }
