@@ -121,7 +121,10 @@ html {
 
 }
 
-body { padding-top: 70px; }
+body { padding-top: 70px;
+        
+
+}
 
 
 blockquote { 
@@ -139,13 +142,16 @@ blockquote {
 
 footer {
     background: transparent;
-    position: relative;
-    height: 30px;
-    margin-top: 380px;
-    /* margin-left: 90px; */
-    clear: both;
+    height: 10px;
+    padding-top: 340px;
+    padding-left: 
+    /* clear: both; */
+    
 
   }
+
+ 
+  
 
   /* ------------default style of footer-------- */
   footer li a {
