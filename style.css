@@ -60,7 +60,7 @@
                  0px 18px 23px rgba(0,0,0,0.5);
 }
  .content{
-	padding-top: 8%;
+	
     text-align: center;
     
     
@@ -97,6 +97,7 @@
     background: url("images/olsenhome.jpg");
     background-size: cover;
     background-position: center; 
+    
 }
 
 #tour-front,  #contact-front, #gallery-front{
@@ -140,7 +141,7 @@ footer {
     background: transparent;
     position: relative;
     height: 30px;
-    margin-top: 300px;
+    margin-top: 380px;
     /* margin-left: 90px; */
     clear: both;
 
