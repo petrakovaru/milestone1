@@ -225,9 +225,10 @@ p {
 }
 
 legend {
-    font-size: 30px;
-    font-weight: 600;
+    font-size: 20px;
+    font-weight: 500;
     color: rgb(48, 47, 47);
+    font-family: 'Niramit', sans-serif;
 
 }
 
@@ -240,8 +241,9 @@ legend {
     border-color: rgb(228, 120, 69);
     background-color: rgb(228, 120, 69);
     color: rgb(48, 47, 47);;
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 600;
+    font-family: 'Niramit', sans-serif;
 }
 
 .btn-primary
@@ -253,9 +255,10 @@ legend {
   }  
 
 .form-control {
-    font-size: 20px;
+    font-size: 15px;
     color: black;
     border: transparent;
+    font-family: 'Niramit', sans-serif;
 
     
 
@@ -266,6 +269,7 @@ h3 {
     padding-top: 15px;
     font-size: 30px;
     color: rgb(61, 58, 58);
+    
 
 }
 
@@ -318,7 +322,7 @@ blockquote {
     font-family: 'Niramit', sans-serif;
     margin: 10px;
     padding: 10px;
-    font-size: 12px;
+    font-size: 11px;
 }
 
 .about-header {
