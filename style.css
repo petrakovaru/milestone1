@@ -140,8 +140,8 @@ footer {
     background: transparent;
     position: relative;
     height: 30px;
-    margin-top: 350px;
-    margin-left: 90px;
+    margin-top: 300px;
+    /* margin-left: 90px; */
     clear: both;
 
   }
@@ -212,17 +212,18 @@ p {
 
 #form {
     margin-top: 50px;
-    padding: 10px;
+    padding: 30px;
     margin-left: 25%;
     margin-right: 25%;
     
+      
     
 }
 
 legend {
     font-size: 30px;
     font-weight: 600;
-    color: black;
+    color: rgb(48, 47, 47);
 
 }
 
@@ -234,7 +235,7 @@ legend {
 .btn-primary {
     border-color: rgb(228, 120, 69);
     background-color: rgb(228, 120, 69);
-    color: black;
+    color: rgb(48, 47, 47);;
     font-size: 22px;
     font-weight: 600;
 }
@@ -250,7 +251,7 @@ legend {
 .form-control {
     font-size: 20px;
     color: black;
-    border: transparent
+    border: transparent;
 
     
 
@@ -260,16 +261,20 @@ h3 {
     text-align: center;
     padding-top: 15px;
     font-size: 30px;
-    color: black;
+    color: rgb(61, 58, 58);
 
 }
 
 .well {
-    background-color: rgb(240, 237, 226);
+    background-color:rgb(240, 237, 226);
     border: transparent
     ;
+    
 }
-
+.well-sm {
+    border-color: #6E7889;
+    
+}
 
 
 
