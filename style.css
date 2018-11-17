@@ -100,7 +100,7 @@
     
 }
 
-#tour-front,  #contact-front, #gallery-front{
+#tour-front,  #contact-front, #gallery-front, #about-front{
     background-color: rgb(235, 190, 170);
     background-size: cover;
     background-position: center;
@@ -143,9 +143,7 @@ blockquote {
 footer {
     background: transparent;
     height: 10px;
-    padding-top: 340px;
-    padding-left: 
-    /* clear: both; */
+    padding-top: 360px;
     
 
   }
@@ -310,4 +308,28 @@ blockquote {
 
 .embed-responsive-item {
     padding-bottom: 20px;
+}
+
+/* -----------about-------------- */
+.first {
+    background-color: transparent;
+    border: 2px solid rgb(206, 130, 111);
+    text-align: center;
+    font-family: 'Niramit', sans-serif;
+    margin: 10px;
+    padding: 10px;
+    font-size: 12px;
+}
+
+.about-header {
+    font-size: 25px;
+    color: rgb(228, 120, 69);
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.1),
+    0px 8px 13px rgba(0,0,0,0.2),
+    0px 18px 23px rgba(0,0,0,0.2);
+}
+
+hr {
+    margin-left: 25%;
+    margin-right: 25%;
 }
