@@ -158,7 +158,14 @@ blockquote {
 
 }
 
- 
+@media only screen and (max-width: 600px) { 
+
+    .front-picture {
+        background: url("images/anothercropped.jpg");
+        background-size: cover;
+        background-position: center;
+    }
+}
   
 
   /* ------------default style of footer-------- */
