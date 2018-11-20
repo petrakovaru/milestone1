@@ -83,7 +83,7 @@
    }
 
    .front-header2 {
-    color: rgb(236, 182, 159);
+    color: rgb(238, 223, 223);
     font-family: 'Niramit', sans-serif;
     font-size: 2em;
     font-weight: 600;
@@ -103,7 +103,7 @@
 
    
    .front-header2:hover {
-       color: rgb(238, 223, 223);
+       color: rgb(236, 182, 159);
        text-decoration: none;
        cursor: pointer;
        
